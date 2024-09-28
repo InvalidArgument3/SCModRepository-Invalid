@@ -1,0 +1,1 @@
+- get a better way to validate and change the default settings for worlds
